@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://prabhat-kr-portfolio.netlify.app/](https://prabhat-kr-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on **React**(different technologies)
+- 📝 I regularly write articles on **React**
 
 - 💬 Ask me about **React,Nodejs**
 
