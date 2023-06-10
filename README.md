@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar11jr" alt="kumar11jr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kumar18jr" target="blank"><img src="https://img.shields.io/twitter/follow/kumar18jr?logo=twitter&style=for-the-badge" alt="kumar18jr" /></a> </p>
+<p align="left"><a href="https://twitter.com/kumar18jr" target="blank"><img src="https://img.shields.io/twitter/follow/kumar18jr?logo=twitter&style=for-the-badge" alt="kumar18jr" /></a> </p>
 
 - 🌱 I’m currently learning **django**
 
