@@ -51,6 +51,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
+[![An image of @kumar11jr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kumar11jr)](https://holopin.io/@kumar11jr)
+
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar11jr&layout=compact&theme=transparent" alt=kumar11jr />
 
