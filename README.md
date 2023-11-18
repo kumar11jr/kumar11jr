@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar11jr&theme=discord" alt="kumar11jr" /></a> </p>
 
-- 🔭 I’m currently working on [News App](https://github.com/kumar11jr/newsapp/tree/master/newsweb)
+- 🔭 I’m currently working on [WorkSpace](https://github.com/kumar11jr/workspace/tree/master/workspace)
 - 🌱 I’m currently learning **Nextjs**
 - 💬 Ask me about **React, Java**
 - 📫 How to reach me **kumar11jr@gmail.com**
