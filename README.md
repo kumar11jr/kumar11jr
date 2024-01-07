@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar11jr&label=Profile%20views&color=0e75b6&style=flat" alt="kumar11jr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar11jr&theme=discord" alt="kumar11jr" /></a> </p>
-
 - 🔭 I’m currently working on [WorkSpace](https://github.com/kumar11jr/workspace/tree/master/workspace)
 - 🌱 I’m currently learning **Nextjs**
 - 💬 Ask me about **React, Java**
@@ -52,13 +50,10 @@
 
 [![An image of @kumar11jr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kumar11jr)](https://holopin.io/@kumar11jr)
 
-
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar11jr&layout=compact&theme=transparent" alt=kumar11jr />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kumar11jr&show_icons=true&locale=en&theme=transparent" alt="kumar11jr" /></p>
+[![kumar11jr's GitHub | Stats](https://stats.quine.sh/kumar11jr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kumar11jr)
+[![kumar11jr's GitHub | Dependencies](https://stats.quine.sh/kumar11jr/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kumar11jr)
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar11jr&theme=transparent" alt="kumar11jr" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kumar11jr&theme=vue"/>
