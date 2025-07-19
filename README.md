@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar11jr&label=Profile%20views&color=0e75b6&style=flat" alt="kumar11jr" /> </p>
 
-- 🔭 I’m currently working on [WorkSpace](https://github.com/kumar11jr/workspace/tree/master/workspace)
-- 🌱 I’m currently learning **Nextjs**
+- 🔭 I’m currently working on [Teampad](https://github.com/kumar11jr/teampad)
+- 🌱 I’m currently learning **Spring boot**
 - 💬 Ask me about **React, Java**
 - 📫 How to reach me **kumar11jr@gmail.com**
 - 👨‍💻 All of my projects are available at **https://portfolio-nx20m02ga-kumar11jr.vercel.app/**
